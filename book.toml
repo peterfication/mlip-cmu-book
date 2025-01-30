@@ -46,3 +46,6 @@ extra-watch-dirs = ["README.md"]
 "/27/index.html" = "../27-safety.html"
 "/28/index.html" = "../28-security-and-privacy.html"
 "/29/index.html" = "../29-transparency-and-accountability.html"
+
+# See https://github.com/Michael-F-Bryan/mdbook-epub
+[output.epub]
