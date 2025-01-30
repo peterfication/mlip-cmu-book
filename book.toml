@@ -49,3 +49,4 @@ extra-watch-dirs = ["README.md"]
 
 # See https://github.com/Michael-F-Bryan/mdbook-epub
 [output.epub]
+cover-image = "img/cover.jpg"
